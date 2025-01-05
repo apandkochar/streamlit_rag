@@ -1,0 +1,16 @@
+langchain
+huggingface_hub 
+unstructured
+pdfminer.six 
+pymupdf 
+sentence_transformers
+pytesseract
+pdf2image
+Pillow
+langchain_community
+chromadb 
+faiss-cpu
+langchain-google-genai
+google-generativeai
+langchain-core
+langchain-huggingface
